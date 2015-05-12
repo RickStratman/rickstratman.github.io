@@ -1,0 +1,28 @@
+
+.maincontent {
+	background-color:#B2B2B2;
+	width:84%;
+	border-radius: 30px 30px 30px 30px;
+	padding:2em;
+	border:10px solid #808080;
+}
+
+.mainblock {
+	max-width:1920px;
+	margin:none;
+	background-color:#808080;
+}
+
+
+#rcorners4 {
+    border-radius: 30px 30px 30px 30px;
+    background: #4D4D4D;
+    padding: 20px;
+}
+.titleblock {
+	width:84%;
+	border-radius: 30px 30px 30px 30px;
+	padding:2em;
+	border:10px solid #808080;
+	background-color: #B2B2B2;
+}
