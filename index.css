@@ -3,12 +3,14 @@
 	background-color:#FFFFFF;
 	width:84%;
 	border:10px solid #cccccc;
+	padding: 20px;
 }
 
 .mainblock {
 	max-width:1920px;
 	margin:none;
 	background-color:#cccccc;
+	padding: 20px;
 }
 
 
@@ -21,4 +23,5 @@
 	width:84%;
 	border:10px solid #cccccc;
 	background-color: #FFFFFF;
+	padding: 20px;
 }
