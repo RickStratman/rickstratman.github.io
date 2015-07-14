@@ -2,7 +2,7 @@
 .maincontent {
 	background-color:#FFFFFF;
 	width:84%;
-	border-radius: 30px 30px 30px 30px;
+	border-radius: 3px 3px 3px 3px;
 	padding:2em;
 	border:10px solid #cccccc;
 }
@@ -21,7 +21,7 @@
 }
 .titleblock {
 	width:84%;
-	border-radius: 30px 30px 30px 30px;
+	border-radius: 3px 3px 3px 3px;
 	padding:2em;
 	border:10px solid #cccccc;
 	background-color: #FFFFFF;
