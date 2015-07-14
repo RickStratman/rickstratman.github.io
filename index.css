@@ -4,7 +4,7 @@
 	width:84%;
 	border-radius: 30px 30px 30px 30px;
 	padding:2em;
-	border:10px solid #808080;
+	border:10px solid #cccccc;
 }
 
 .mainblock {
@@ -23,6 +23,6 @@
 	width:84%;
 	border-radius: 30px 30px 30px 30px;
 	padding:2em;
-	border:10px solid #808080;
-	background-color: #B2B2B2;
+	border:10px solid #cccccc;
+	background-color: #cccccc;
 }
