@@ -2,8 +2,6 @@
 .maincontent {
 	background-color:#FFFFFF;
 	width:84%;
-	border-radius: 3px 3px 3px 3px;
-	padding:2em;
 	border:10px solid #cccccc;
 }
 
@@ -21,8 +19,6 @@
 }
 .titleblock {
 	width:84%;
-	border-radius: 3px 3px 3px 3px;
-	padding:2em;
-	border:5px solid #cccccc;
+	border:10px solid #cccccc;
 	background-color: #FFFFFF;
 }
