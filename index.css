@@ -36,11 +36,11 @@ ul.a {list-style-type: circle;}
     -webkit-border-image: 
       -webkit-gradient(linear, 0 0, 100% 0, from(black), to(rgba(0, 0, 0, 0))) 1 100%;
     -webkit-border-image: 
-      -webkit-linear-gradient(left, black, rgba(0, 0, 0, 0)) 1 100%;
+      -webkit-linear-gradient(right, black, rgba(0, 0, 0, 0)) 1 100%;
     -moz-border-image:
-      -moz-linear-gradient(left, black, rgba(0, 0, 0, 0)) 1 100%; 
+      -moz-linear-gradient(right, black, rgba(0, 0, 0, 0)) 1 100%; 
     -o-border-image:
-      -o-linear-gradient(left, black, rgba(0, 0, 0, 0)) 1 100%;
+      -o-linear-gradient(right, black, rgba(0, 0, 0, 0)) 1 100%;
     border-image:
-      linear-gradient(to left, black, rgba(0, 0, 0, 0)) 1 100%;     
+      linear-gradient(to right, black, rgba(0, 0, 0, 0)) 1 100%;     
 }
