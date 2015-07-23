@@ -8,7 +8,7 @@
 
 .mainblock {
 	max-width:1920px;
-	margin-left:10px;
+
 	background-color:#cccccc;
 }
 
@@ -20,9 +20,8 @@
 }
 .titleblock {
 	width:84%;
-
 	background-color: #FFFFFF;
-
+	margin-left:10px;
 }
 
 
