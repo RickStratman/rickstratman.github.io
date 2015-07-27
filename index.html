@@ -34,23 +34,12 @@
 <link rel="stylesheet" href="index.css">
 
 <div id="slideshow">
-	<div>
-	<img src="https://farm6.staticflickr.com/5584/14787566771_54f1b301d5_h.jpg">
-	</div>
-	<div>
-	<img src="https://farm4.staticflickr.com/3900/14753637706_ee4b6d00c9_h.jpg">
-	</div>
-</div>
-$("#slideshow > div:gt(0)").hide();
 
-setInterval(function() { 
-  $('#slideshow > div:first')
-    .fadeOut(1000)
-    .next()
-    .fadeIn(1000)
-    .end()
-    .appendTo('#slideshow');
-},  3000);
+	<img src="https://farm6.staticflickr.com/5584/14787566771_54f1b301d5_h.jpg">
+
+	<img src="https://farm4.staticflickr.com/3900/14753637706_ee4b6d00c9_h.jpg">
+
+</div>
 
 <br>
 	
