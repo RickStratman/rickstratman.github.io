@@ -2,7 +2,7 @@
 .maincontent {
 	background-color:#FFFFFF;
 	width:84%;
-	align:center;
+	margin:auto;
 }
 
 #rcorners4 {
@@ -11,7 +11,9 @@
     
 .titleblock {
 	width:84%;
-	background-color: #FFFFFF;}
+	background-color: #FFFFFF;
+	margin:auto;
+}
 
 ul.a {list-style-type: circle;}
 
