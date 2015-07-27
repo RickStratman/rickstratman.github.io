@@ -41,3 +41,14 @@ ul.a {list-style-type: circle;}
 .gradient{-webkit-box-shadow: 0px 0px 20px 1px rgba(0,0,0,0.75);
 -moz-box-shadow: 0px 0px 20px 1px rgba(0,0,0,0.75);
 box-shadow: 0px 0px 20px 1px rgba(0,0,0,0.75);}
+
+$("#slideshow > div:gt(0)").hide();
+
+setInterval(function() { 
+  $('#slideshow > div:first')
+    .fadeOut(1000)
+    .next()
+    .fadeIn(1000)
+    .end()
+    .appendTo('#slideshow');
+},  3000);
